@@ -1,0 +1,13 @@
+{
+  "name": "lorebot",
+  "version": "1.0.0",
+  "description": "Discord LoreBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "sqlite3": "^5.1.6"
+  }
+}
